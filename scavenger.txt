@@ -1,3 +1,6 @@
+Repo URL: https://github.com/radioactivebean0/CSE110Lab2
+Website URL: https://radioactivebean0.github.io/CSE110Lab2/
+
 1)greenEggsAndHam
 2)iHateCplusplus
 3)HTMLRocks
