@@ -14,6 +14,18 @@ header > h1 {
     font-size: 5vw;
     text-align: center;
 }
+@media screen and (min-width:601px){
+    div.expand {
+        display: none;
+    }
+}
+
+@media screen and (max-width:600px) {
+    div.expand {
+        font-size: 30vw;
+        display: static;
+    }
+}
 a{
     font-size: 1.5em;
 }
