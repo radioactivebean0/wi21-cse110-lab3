@@ -9,6 +9,12 @@ header {
     border-radius: 6px;
     border-color:darkorchid;
 }
+title {
+    text-align: center;
+}
 body {
     font-family: 'Noto Sans JP', sans-serif;
+}
+nav > p {
+    text-decoration: underline;
 }
