@@ -35,7 +35,10 @@ nav > p {
 .intro {
     display: block;
 }
-
+.aboutme {
+    position: relative;
+    left: 30px;
+}
 .hidden {
     display: none;
 }
