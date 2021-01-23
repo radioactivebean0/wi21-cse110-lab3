@@ -8,6 +8,7 @@ header {
     border-width: 3px;
     border-radius: 6px;
     border-color:darkorchid;
+    min-width: 800px;
 }
 title {
     text-align: center;
@@ -17,4 +18,7 @@ body {
 }
 nav > p {
     text-decoration: underline;
+}
+.maxwid {
+    max-width: 70%;
 }
