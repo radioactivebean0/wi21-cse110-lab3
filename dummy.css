@@ -9,6 +9,7 @@ header {
     border-radius: 6px;
     border-color:darkorchid;
     min-width: 800px;
+    margin-bottom: 20px;
 }
 header > h1 {
     font-size: 5vw;
@@ -38,6 +39,9 @@ a:active {
 body {
     font-family: 'Noto Sans JP', sans-serif;
 }
+nav {
+    margin: auto;
+}
 nav > p {
     text-decoration: underline;
 }
@@ -53,4 +57,14 @@ nav > p {
 }
 .hidden {
     display: none;
+}
+fieldset {
+    width: 400px;
+    height: auto;
+}
+table {
+    padding:20px;
+}
+details {
+    padding-top: 20px;
 }
