@@ -22,3 +22,10 @@ nav > p {
 .maxwid {
     max-width: 70%;
 }
+.intro {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
